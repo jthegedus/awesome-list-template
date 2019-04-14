@@ -31,6 +31,7 @@ A template for an awesome list with required conventions out of the box!
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
+- [Follow](#follow)
 
 <!-- CONTENT -->
 
