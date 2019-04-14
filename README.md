@@ -34,7 +34,7 @@ A template for an awesome list with required conventions out of the box!
 
 ## Featured (new releases)
 
-- [Example][example.com] - Simple placeholder item.
+- [Example][example] - Simple placeholder item.
 
 <!-- END CONTENT -->
 
