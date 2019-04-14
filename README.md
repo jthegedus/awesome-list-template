@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-# awesome-list-template
+# awesome-list-template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 
