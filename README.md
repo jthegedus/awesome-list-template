@@ -68,5 +68,5 @@ Who else should we be following!?
 <!-- end content -->
 
 [contributing]: contributing.md
-[contributors]: /graphs/contributors
+[contributors]: /graphs/master
 [license]: LICENSE
