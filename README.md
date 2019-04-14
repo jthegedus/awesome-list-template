@@ -22,6 +22,7 @@ A template for an awesome list with required conventions out of the box!
 - update the subtitle
 - add img src, make it link to the site of the thing in the image. uncomment the img code
 - update TODO_INSERT_YOUR_EMAIL_HERE in CODE_OF_CONDUCT.md
+- update TODO_YOUR_REPO_NAME_HERE in contributing.md
 - update TODO_YOUR_REPO_NAME_HERE in README.md "contributors" link
 - remove this section
 
@@ -69,5 +70,5 @@ Who else should we be following!?
 <!-- end content -->
 
 [contributing]: contributing.md
-[contributors]: TODO_YOUR_REPO_NAME_HERE/graphs/master
+[contributors]: https://gitlab.com/TODO_YOUR_REPO_NAME_HERE/graphs/master
 [license]: LICENSE
