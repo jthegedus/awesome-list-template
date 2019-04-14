@@ -31,6 +31,7 @@ A template for an awesome list with required conventions out of the box!
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
+- [Section 2](#section-2)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -38,6 +39,10 @@ A template for an awesome list with required conventions out of the box!
 ## Featured (new releases)
 
 - [Example][example] - Simple placeholder item.
+
+## Section 2
+
+- [Something][something] - Some thing.
 
 <!-- END CONTENT -->
 
@@ -63,6 +68,7 @@ Who else should we be following!?
 <!-- content -->
 
 [example]: https://example.com
+[something]: https://something.com
 
 <!-- end content -->
 
