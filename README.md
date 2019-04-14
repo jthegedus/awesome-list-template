@@ -30,7 +30,7 @@ A template for an awesome list with required conventions out of the box!
 
 ## Contents
 
-- [Featured (new releases)][featured-content]
+- [Featured (new releases)](#featured-new-releases)
 
 <!-- CONTENT -->
 
@@ -59,10 +59,6 @@ Who else should we be following!?
 [CC0 License][license]
 
 <!-- LINKS -->
-<!-- toc -->
-
-[featured-content]: #featured-new-releases
-
 <!-- content -->
 
 [example]: https://example.com
