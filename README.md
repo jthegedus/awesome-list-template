@@ -38,11 +38,11 @@ A template for an awesome list with required conventions out of the box!
 
 ## Featured (new releases)
 
-- [Example][example] - Simple placeholder item.
+- [Apple](https://apple.com) - Apple as a placeholder.
 
 ## Section 2
 
-- [Something][something] - Some thing.
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
 <!-- END CONTENT -->
 
@@ -54,24 +54,12 @@ Who else should we be following!?
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines][contributing]!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
 
-[Thanks goes to these contributors][contributors]!
+[Thanks goes to these contributors](https://gitlab.com/TODO_YOUR_REPO_NAME_HERE/graphs/master)!
 
 ## License
 
-[CC0 License][license]
-
-<!-- LINKS -->
-<!-- content -->
-
-[example]: https://example.com
-[something]: https://something.com
-
-<!-- end content -->
-
-[contributing]: contributing.md
-[contributors]: https://gitlab.com/TODO_YOUR_REPO_NAME_HERE/graphs/master
-[license]: LICENSE
+[CC0 License](LICENSE)
