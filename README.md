@@ -16,7 +16,7 @@ A template for an awesome list with required conventions out of the box!
 
 </div>
 
-## DO THESE THINGS WHEN CLONING
+# DO THESE THINGS WHEN CLONING
 
 - update the h1 title
 - update the subtitle
