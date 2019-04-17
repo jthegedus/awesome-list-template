@@ -1,65 +1,18 @@
-<div align="center">
+# Awesome List Template
 
-<!-- title -->
+This is an [awesome-list](https://github.com/sindresorhus/awesome) template with CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and [awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the beginning.
 
-# awesome-list-template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Getting Started
 
-<!-- subtitle -->
-
-A template for an awesome list with required conventions out of the box!
-
-<!-- image -->
-
-<!-- <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a> -->
-
-</div>
-
-# DO THESE THINGS WHEN CLONING
-
-- update the h1 title
-- update the subtitle
-- add img src, make it link to the site of the thing in the image. uncomment the img code
-- update TODO_INSERT_YOUR_EMAIL_HERE in CODE_OF_CONDUCT.md
-- update TODO_YOUR_REPO_NAME_HERE in contributing.md
-- update TODO_YOUR_REPO_NAME_HERE in README.md "contributors" link
-- remove this section
-
-<!-- TOC -->
-
-## Contents
-
-- [Featured (new releases)](#featured-new-releases)
-- [Section 2](#section-2)
-- [Follow](#follow)
-
-<!-- CONTENT -->
-
-## Featured (new releases)
-
-- [Apple](https://apple.com) - Apple as a placeholder.
-
-## Section 2
-
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
-
-<!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
-
-Who else should we be following!?
-
-## Contributing
-
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
-
-[Thanks goes to these contributors](https://gitlab.com/TODO_YOUR_REPO_NAME_HERE/graphs/master)!
-
-## License
-
-[CC0 License](LICENSE)
+1. clone/fork/copy this repo
+2. edit `README_TEMPLATE.md`
+    - update the h1 title
+    - update the subtitle
+    - add img src, make it link to the site of the thing in the image. uncomment the img code.
+    - update `TODO_YOUR_REPO_NAME_HERE` in the "contributors" link
+3. edit `CODE_OF_CONDUCT.md`
+    - update `TODO_INSERT_YOUR_EMAIL_HERE`
+4. edit `contributing.md`
+    - update `TODO_YOUR_REPO_NAME_HERE`
+5. delete this file
+6. rename `README_TEMPLATE.md` to `README.md`
