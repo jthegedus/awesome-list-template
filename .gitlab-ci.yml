@@ -3,7 +3,7 @@ stages:
 
 awesome-lint:
   stage: check
-  image: node:10.15.3
+  image: node:lts
   cache:
     paths:
       - node_modules/
