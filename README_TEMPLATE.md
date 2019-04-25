@@ -14,6 +14,8 @@ A template for an awesome list with required conventions out of the box!
   <img src="" />
 </a> -->
 
+<!-- description -->
+
 A one line description of the product or tool. See [awesome-firebase](https://github/.com/jthegedus/awesome-firebase) for an example.
 
 </div>
