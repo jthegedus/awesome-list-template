@@ -8,6 +8,7 @@ This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
 2. edit `README_TEMPLATE.md`
     - update the h1 title
     - update the subtitle
+    - update the description
     - add img src, make it link to the site of the thing in the image. uncomment the img code.
     - update `TODO_YOUR_REPO_NAME_HERE` in the "contributors" link
 3. edit `CODE_OF_CONDUCT.md`
