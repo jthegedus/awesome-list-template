@@ -16,8 +16,8 @@ This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
 4. edit `contributing.md`
    - update `TODO_YOUR_REPO_NAME_HERE`
 5. choose a CI template
-   - circle ci
-   - gitlab ci
+   - circle ci: move config folder from `repo-root/ci/config` to `repo-root/config` 
+   - gitlab ci: move `.gitlab-ci.yml` from `repo-root/ci` to the `repo-root`
 6. delete this file
 7. rename `README_TEMPLATE.md` to `README.md`
 
