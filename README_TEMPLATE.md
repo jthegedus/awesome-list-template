@@ -52,7 +52,7 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://gitlab.com/TODO_YOUR_REPO_NAME_HERE/graphs/master)!
+[Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)!
 
 ## License
 
