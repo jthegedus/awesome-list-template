@@ -4,7 +4,7 @@ This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
 
 ## Usage
 
-1. clone/fork/copy this repo
+1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
 2. edit `README_TEMPLATE.md`
    - update the h1 title
    - update the subtitle
