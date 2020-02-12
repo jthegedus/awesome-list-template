@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-# awesome-list-template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-list-template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 
@@ -16,7 +16,7 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github/.com/jthegedus/awesome-firebase) for an example.
+A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
 
 </div>
 
