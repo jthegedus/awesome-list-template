@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-# Awesome-list-template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-List-Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 
@@ -52,7 +52,7 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)!
+<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
 
 ## License
 
