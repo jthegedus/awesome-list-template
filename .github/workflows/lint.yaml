@@ -13,4 +13,4 @@ jobs:
       - name: "lint: awesome-lint"
         uses: jthegedus/github-action-awesome-lint@v0.1.0 # I trust me, so will happily use Tag versioning over commit_sha
         with:
-          args: ./readme_template.md
+          args: ./readme-template.md
