@@ -19,4 +19,4 @@ jobs:
         with:
           node-version: "12.x"
       - run: npm install awesome-lint
-      - run: npm run awesome-lint ./readme-template.md
+      - run: awesome-lint ./readme-template.md
