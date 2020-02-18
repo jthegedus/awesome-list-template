@@ -18,5 +18,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: "12.x"
-      - run: npm install awesome-lint
-      - run: awesome-lint ./readme-template.md
+      - run: |
+          npm install awesome-lint
+          awesome-lint ./readme-template.md
