@@ -5,21 +5,22 @@ This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
 ## Usage
 
 1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. edit `README_TEMPLATE.md`
+2. edit `readme_template.md`
    - update the h1 title
    - update the subtitle
    - update the description
    - add img src, make it link to the site of the thing in the image. uncomment the img code.
    - update `TODO_YOUR_REPO_NAME_HERE` in the "contributors" link
-3. edit `CODE_OF_CONDUCT.md`
+3. edit `code_of_conduct.md`
    - update `TODO_INSERT_YOUR_EMAIL_HERE`
 4. edit `contributing.md`
    - update `TODO_YOUR_REPO_NAME_HERE`
 5. choose a CI template
+   - github action: move config folver from `repo-root/ci/.github/` to `repo-root/.github`
    - circle ci: move config folder from `repo-root/ci/.circleci/*` to `repo-root/.circleci/*`
    - gitlab ci: move config file from `repo-root/ci/.gitlab-ci.yml` to the `repo-root/.gitlab-ci.yml`
 6. delete this file
-7. rename `README_TEMPLATE.md` to `README.md`
+7. rename `readme_template.md` to `readme.md`
 
 ## Contributing
 
