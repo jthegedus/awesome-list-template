@@ -19,5 +19,5 @@ jobs:
         with:
           node-version: "12.x"
       - run: |
-          npm install --global awesome-lint
+          npm install --global awesome-lint@latest
           awesome-lint ./readme-template.md
