@@ -20,7 +20,8 @@ This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
    - circle ci: move config folder from `repo-root/ci/.circleci/*` to `repo-root/.circleci/*`
    - gitlab ci: move config file from `repo-root/ci/.gitlab-ci.yml` to the `repo-root/.gitlab-ci.yml`
 6. delete this file
-7. rename `readme-template.md` to `readme.md`
+7. rename `readme-template.md` file to `readme.md`
+8. rename `readme-template.md` to `readme.md` in the GitHub Workflow file `.github/workflows/lint.yaml`
 
 ## Contributing
 
