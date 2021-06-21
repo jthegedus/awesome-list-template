@@ -16,9 +16,9 @@ This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
 4. edit `contributing.md`
    - update `TODO_YOUR_REPO_NAME_HERE`
 5. choose a CI template
-   - github action: move config folver from `repo-root/ci/.github/` to `repo-root/.github`
-   - circle ci: move config folder from `repo-root/ci/.circleci/*` to `repo-root/.circleci/*`
-   - gitlab ci: move config file from `repo-root/ci/.gitlab-ci.yml` to the `repo-root/.gitlab-ci.yml`
+   - GitHub Action: move config folver from `repo-root/ci/.github/` to `repo-root/.github`
+   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to `repo-root/.circleci/*`
+   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the `repo-root/.gitlab-ci.yml`
 6. delete this file
 7. rename `readme-template.md` file to `readme.md`
 8. if using GitHub Actions, rename `readme-template.md` to `readme.md` in the GitHub Workflow file `.github/workflows/lint.yaml`
