@@ -7,7 +7,7 @@ jobs:
     steps:
       - checkout
       - run: gem install awesome_bot
-      - run: awesome_bot README.md --allow-redirect --allow-dupe
+      - run: awesome_bot readme.md --allow-redirect --allow-dupe
   'awesome-lint':
     docker:
       - image: circleci/node:lts
@@ -28,4 +28,4 @@ workflows:
   build:
     jobs:
       - 'awesome-lint'
-- 'awesome-bot'
+      - 'awesome-bot'
