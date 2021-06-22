@@ -16,4 +16,4 @@ awesome-bot:
   image: ruby:latest
   script:
     - gem install awesome_bot
-    - awesome_bot README.md --allow-redirect --allow-dupe
+    - awesome_bot readme.md --allow-redirect --allow-dupe
