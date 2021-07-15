@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/<YOUR REPO>/awesome-<YOUR TOOL>/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
