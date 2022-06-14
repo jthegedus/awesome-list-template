@@ -16,7 +16,7 @@ This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
 4. edit `contributing.md`
    - update `TODO_YOUR_REPO_NAME_HERE`
 5. choose a CI template
-   - GitHub Action: move config folver from `repo-root/ci/.github/` to `repo-root/.github`
+   - GitHub Action: move config folder from `repo-root/ci/.github/` to `repo-root/.github`
    - Circle CI: move config folder from `repo-root/ci/.circleci/*` to `repo-root/.circleci/*`
    - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the `repo-root/.gitlab-ci.yml`
 6. delete this file
