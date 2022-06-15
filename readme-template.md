@@ -3,7 +3,8 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
+
+# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -11,13 +12,15 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- image -->
 
-<!-- <a href="" target="_blank" rel="noopener noreferrer">
+<a href="" target="_blank" rel="noopener noreferrer">
   <img src="" />
-</a> -->
+</a>
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
+A one line description of the product or tool. See
+[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
+example.
 
 </div>
 
@@ -53,4 +56,4 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
