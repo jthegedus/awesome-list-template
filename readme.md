@@ -21,6 +21,7 @@ beginning.
      `repo-root/.circleci/*`
    - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
      `repo-root/.gitlab-ci.yml`
+5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
 5. delete this file
 6. rename `readme-template.md` file to `readme.md`
 
